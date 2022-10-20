@@ -9,7 +9,7 @@ import org.testng.Assert;
 class KopeeteariaDashboardSeleniumTest {
 
     private ChromeDriver driver;
-    private String baseUrl = "http://localhost:3000";
+    private String baseUrl = "http://localhost:8080/koopetaria-app/";
 
 
     @BeforeClass
